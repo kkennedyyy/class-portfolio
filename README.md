@@ -11,16 +11,16 @@ The repository includes code for various assignments organized by course.
 
 Contents:
 
-CSCE 240 w Hipp
+CSCE 240 w Hipp  
 Assignment 2 - Assignment 6
 
-CSCE 146 w JJ
+CSCE 146 w JJ  
 All Homework and Lab Assignments
 
-CSCE 145 w Hoskins
+CSCE 145 w Hoskins  
 WIP
 
-CSCE 215 w Hoskins
+CSCE 215 w Hoskins  
 WIP
 
 
