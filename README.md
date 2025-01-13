@@ -5,9 +5,8 @@
 
 
 
-Welcome to my class portfolio repository! 
-This is a collection of assignments, projects, and coursework from my computer science and other related classes.
-The repository includes code for various assignments organized by course.
+Welcome to my class portfolio repository!  
+This is where I upload any, projects, labs, or assignments from CSCE classes.  I receieved either an A or B for all assignments.
 
 Contents:
 
