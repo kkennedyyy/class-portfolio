@@ -1,4 +1,4 @@
-/*
+
 import java.util.Scanner;
 
 public class AlgHomework00 {
@@ -38,4 +38,3 @@ public class AlgHomework00 {
 		
 	}
 }
-*/
