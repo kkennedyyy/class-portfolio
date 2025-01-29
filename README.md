@@ -28,10 +28,11 @@ Homework 03 Objective: Write a program in which the user can manage a collection
 Homework 04 Objective: Write a program that simulates a robot running a queue of commands to move around a board with obstacles.  
 
 CSCE 145 Algorithmic I w Hoskins:  
-WIP
+A Below Average Winter Objective: Write a program that takes in temperatures for 10 days and stores it in an array. Find the average temperature for those 10 days, and then print the number of days and the temperatures that were strictly below the average.   
+Fleet of Vehicles Objective:  Use classes and inheritance to create a vehicle system managing system.  
+Rock Paper Scissors Objective: Write a program that simulates a game of rock, paper, scissors between a human and a computer opponent in best 2 out of 3 rounds.  
+Zodiac Objective: Write a program that determines a person’s astrological zodiac sign based on their birthday.  
 
-CSCE 215 Linux/Unix Fundalmentals w Hoskins:  
-WIP
 
 
 
